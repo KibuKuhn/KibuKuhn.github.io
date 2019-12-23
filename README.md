@@ -2,7 +2,7 @@
 
 Current projects
 
-Download movies form ZDF Mediathek
+Download movies from ZDF Mediathek
 [ZDF-Media-Downloader](https://github.com/KibuKuhn/zdf-mediathek-downloader)
 
 Access your favorite files and folders easily
