@@ -1,6 +1,6 @@
 # KibuKuhn.github.io
 
-Current projects
+Current spare time projects
 
 Download movies from ZDF Mediathek
 [ZDF-Media-Downloader](https://github.com/KibuKuhn/zdf-mediathek-downloader)
