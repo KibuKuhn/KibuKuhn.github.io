@@ -8,4 +8,5 @@ Download movies from ZDF Mediathek
 Access your favorite files and folders easily
 [myfavorites](https://github.com/KibuKuhn/myfavorites)
 
-[Brightness control app for Solus Linux](https://github/KibuKuhn/brightness)
+Brightness control app for Solus Linux 
+[brightness](https://github.com/KibuKuhn/brightness)
